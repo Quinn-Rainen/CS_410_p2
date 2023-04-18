@@ -123,6 +123,8 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 23800000, guid: 4b1829a76343fbf419422f1a70449908, type: 2}
+<<<<<<< Updated upstream
+=======
 --- !u!1 &151382712
 GameObject:
   m_ObjectHideFlags: 0
@@ -460,6 +462,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> Stashed changes
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -3375,6 +3378,8 @@ CapsuleCollider:
   m_Height: 1.4
   m_Direction: 1
   m_Center: {x: 0, y: 0.7, z: 0}
+<<<<<<< Updated upstream
+=======
 --- !u!1 &1392869528
 GameObject:
   m_ObjectHideFlags: 0
@@ -3435,6 +3440,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+>>>>>>> Stashed changes
 --- !u!1 &1462643977
 GameObject:
   m_ObjectHideFlags: 0
@@ -3805,6 +3811,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1946222402351121912, guid: d26c847c029e6cd49bccd2ef05b0f86f, type: 3}
   m_PrefabInstance: {fileID: 1946222403640469398}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+=======
 --- !u!4 &6834937835870892336 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6478651108984739277, guid: 3951d38e6310541fb98c4a86366e10f2, type: 3}
@@ -3879,3 +3887,4 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 353d4294c13ea8c48b2293ca702c43bd, type: 3}
+>>>>>>> Stashed changes
