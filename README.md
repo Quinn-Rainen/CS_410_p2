@@ -7,10 +7,9 @@ Erin Stone - 'Enemies Parts 1 and 2', Particle Effect integration
 Globus-O'Harra - player movement, game environment
 John Dencklau - 'The Camera, Ending the Game, Audio' & Dot Product integration
 
-Dot product is used to add a detection cone to the player. 
-Following this the position and relative view of the player 
-is used to determine whether the colorful ball object is 
-detected. Please see referenced material for further details:
+Dot product is used to detect the ball object as the player. The position and 
+relative view of the player is used to determine whether the colorful ball 
+object is detected. Please see referenced material for further details:
 https://www.youtube.com/watch?v=MB7d3MdVHwU
 
 Linear interpolation (causes color fluctuation on ball object)
