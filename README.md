@@ -12,7 +12,7 @@ relative view of the player is used to determine whether the colorful ball
 object is detected. Please see referenced material for further details:
 https://www.youtube.com/watch?v=MB7d3MdVHwU
 
-Linear interpolation (causes color fluctuation on ball object)
+Linear interpolation (causes gradual movement on ball object)
 
 Particle effect (animates around the player)
 
