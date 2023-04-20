@@ -16,5 +16,6 @@ Linear interpolation (causes gradual movement and color change on ball object)
 
 Particle effect (animates around the player)
 
-
-
+The feedback for detecting the ball (dot product) is seen via the console log.
+Ideally, this would instead allow the player to interact with the ball to add
+it to a notional inventory, with a UI element (ball icon) now on screen. 
