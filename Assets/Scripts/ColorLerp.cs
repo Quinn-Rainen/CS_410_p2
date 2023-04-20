@@ -4,6 +4,15 @@ using UnityEngine;
 
 public class ColorLerp : MonoBehaviour
 {
+    public static ColorLerp Instance
+    {
+        get
+        {
+            return s_Instance;
+        }
+    }
+    private static ColorLerp s_Instance;
+
     MeshRenderer sphereMeshRenderer;
     [SerializeField] [Range(0f,1f)] float lerpTime;
 
@@ -33,6 +42,7 @@ public class ColorLerp : MonoBehaviour
 
         // Save the start position of the ball
         startPosition = transform.position;
+        s_Instance = this;
 
         // Make sure the pickup collider is set to trigger
     }
